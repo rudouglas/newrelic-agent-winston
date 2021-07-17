@@ -1,6 +1,6 @@
 {
-  "name": "newrelic-winston",
-  "version": "2.1.0",
+  "name": "newrelic-agent-winston",
+  "version": "1.0.1",
   "description": "A newrelic transport for winston",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/namshi/newrelic-winston.git"
+    "url": "git+https://github.com/rudouglas/newrelic-agent-winston.git"
   },
   "keywords": [
     "logging",
@@ -20,11 +20,11 @@
   "author": "Luciano Colosio",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/namshi/newrelic-winston/issues"
+    "url": "https://github.com/rudouglas/newrelic-agent-winston/issues"
   },
-  "homepage": "https://github.com/namshi/newrelic-winston#readme",
+  "homepage": "https://github.com/rudouglas/newrelic-agent-winston#readme",
   "dependencies": {
-    "newrelic": "^5.11.0",
+    "newrelic": "^7.5.2",
     "winston": "^3.0.0",
     "winston-transport": "^4.2.0"
   },
